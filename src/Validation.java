@@ -26,9 +26,5 @@ public static void main(String[] args) {
 					JOptionPane.showMessageDialog(null,"I love your shoes. They look great on you");
 				}
 			}
-			// 4. Repeat all the code above 10 times
-			
-			// 5. Find someone to test out your program. They will like it :)
-
 }
 }
